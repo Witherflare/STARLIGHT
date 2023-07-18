@@ -37,7 +37,7 @@ To start using the STARLIGHT board, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for both personal and commercial use.
+This project is licensed under the [GNU General Public License](LICENSE).
 
 ## Purchase
 
