@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE), allowing for both per
 
 ## Purchase
 
-The STARLIGHT board is available for purchase [here](link_to_purchase_page) at the price of $49 USD.
+The STARLIGHT board is available for purchase [here]() at the price of $49 USD.
 
 For further details and support, please refer to the documentation in the `/docs` directory.
 
